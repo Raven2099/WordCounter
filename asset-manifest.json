@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CountWord/static/css/main.62ed6774.css",
+    "main.js": "/CountWord/static/js/main.134c4b02.js",
+    "static/js/787.af04e08f.chunk.js": "/CountWord/static/js/787.af04e08f.chunk.js",
+    "index.html": "/CountWord/index.html",
+    "main.62ed6774.css.map": "/CountWord/static/css/main.62ed6774.css.map",
+    "main.134c4b02.js.map": "/CountWord/static/js/main.134c4b02.js.map",
+    "787.af04e08f.chunk.js.map": "/CountWord/static/js/787.af04e08f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62ed6774.css",
+    "static/js/main.134c4b02.js"
+  ]
+}
